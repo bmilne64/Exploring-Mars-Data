@@ -1,11 +1,10 @@
 ## Exploring Mars Data 
 
-Beautiful Soup Webscraping to Analyze Data about Mars
+BeautifulSoup Web Scraping to Analyze Data about Mars
 
 ### Datasets:
 
- [Mars News](https://redplanetscience.com//)
-  [Mars Weather](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html)
+ [Mars News](https://redplanetscience.com//), [Mars Weather](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html)
 
 ## Objective #1: Scrape Titles and Preview Text from Mars News
 
